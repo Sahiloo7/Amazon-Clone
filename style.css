@@ -16,7 +16,7 @@
     width: 113px;
 }
 .logo{
-    background-image: url("amazon_logo.jpg");
+    background-image: url("/Amazon-Clone/Img/amazon_logo.jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -115,7 +115,7 @@
   }
   /* hero-section */
   .hero-sec{
-   background-image: url(hero_image.jpg );
+   background-image: url("/Amazon-Clone/Img/hero_image.jpg");
    background-size: cover;
    height: 290px;
    display: flex;
@@ -209,7 +209,7 @@
       align-items: center;
    }
    .logo{
-      background-image: url("amazon_logo.jpg");
+      background-image: url("/Amazon-Clone/Img/amazon_logo.jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
