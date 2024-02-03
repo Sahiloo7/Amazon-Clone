@@ -1,2 +1,2 @@
-# Amazon-zclone
-I am going to make Amazon 1st page with html and css
+# Amazon-Clone
+I made Amazon.com homepage with html and css
